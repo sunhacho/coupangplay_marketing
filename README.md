@@ -28,7 +28,8 @@
         - 다른 OTT 플랫폼에는 활발히 참여하는 고관여 사용자(161만 명)
     - Targeting: 인기 스포츠 중계를 중심으로 한 스포츠 팬 중심 타겟팅에 편중
     - Positioning: ‘가성비 OTT’, ‘스포츠 중계의 대표 OTT’
-    
+    <img width="1020" height="580" alt="image" src="https://github.com/user-attachments/assets/38fa986a-bd52-4735-9391-69f94e8ee6a8" />
+
 
 
     
@@ -55,7 +56,9 @@
     : 3040 여성 직장인’을 타깃으로 설정하고, 이들의 니즈에 맞는 ‘가심비’ 중심의 일상 공감형 오리지널 숏폼 콘텐츠 서비스
     
 
-![image.png](attachment:b511523f-8ec6-4535-bd94-4869c07e56f7:image.png)
+<img width="498" height="904" alt="image" src="https://github.com/user-attachments/assets/2649bcdd-d1ca-47b5-8215-09b6d0992eb9" />
+
+
 
 **배경**
 
@@ -98,7 +101,8 @@
 
 **기대효과**
 
-![image.png](attachment:8e3493f7-3f77-47b0-9a1d-fd13ac885ac3:image.png)
+<img width="864" height="1270" alt="image" src="https://github.com/user-attachments/assets/fcf69adb-a6bd-4c45-a025-03965dfc4b78" />
+
 
 1. 비경기일에도 커뮤니티 활동을 유도
 2. 사용자들의 팬 활동 데이터를 기반으로 맞춤형 콘텐츠 추천, 상품 연계, 프로모션 설정 등 정교한 개인화 마케팅 가능
@@ -117,7 +121,8 @@
 
 **기대효과**
 
-![image.png](attachment:f28cc350-4abe-4f08-9604-5e0ac890f41f:image.png)
+<img width="992" height="668" alt="image" src="https://github.com/user-attachments/assets/aeb29b07-be66-4489-a6f4-179891f7367a" />
+
 
 1. 기존 와우 멤버십과 광고 기반 무료 요금제 사이의 간극을 메울 수 있음
 2. 고객의 경제적 부담을 줄이고 이용 편의성을 높임
@@ -147,7 +152,8 @@ MZ세대 스포츠 팬들을 위한 체험형+세계관 팝업스토어로, 쿠�
 
 ⑤ 🎁 굿즈&포토카드 랜덤존
 
-![image.png](attachment:faa39744-4397-48f1-aeea-b8b37dab1f8e:image.png)
+<img width="992" height="668" alt="image" src="https://github.com/user-attachments/assets/c6dfa877-ccfe-4712-b80f-ad839fe07414" />
+
     <img width="460" height="306" alt="image" src="https://github.com/user-attachments/assets/413f7e92-8c56-483b-9317-c17d11d69766" />
 
 ---
