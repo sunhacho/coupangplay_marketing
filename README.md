@@ -29,7 +29,8 @@
     - Targeting: 인기 스포츠 중계를 중심으로 한 스포츠 팬 중심 타겟팅에 편중
     - Positioning: ‘가성비 OTT’, ‘스포츠 중계의 대표 OTT’
     
-    ![image.png](attachment:a61b7e5a-3912-4f2c-b393-99d3ba4279b1:image.png)
+    <img width="460" height="306" alt="image" src="https://github.com/user-attachments/assets/413f7e92-8c56-483b-9317-c17d11d69766" />
+
     
 
  **본 분석을 통해 도출된 문제점** 
