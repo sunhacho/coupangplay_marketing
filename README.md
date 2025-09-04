@@ -153,7 +153,7 @@ MZ세대 스포츠 팬들을 위한 체험형+세계관 팝업스토어로, 쿠�
 ⑤ 🎁 굿즈&포토카드 랜덤존
 
 <img width="274" height="622" alt="image" src="https://github.com/user-attachments/assets/289500a5-cc61-4a44-860d-4b89d514e485" />
-<img width="260" height="106" alt="image" src="https://github.com/user-attachments/assets/61e1fc59-601b-4bfa-8042-bc2365965336" />
+<img width="460" height="306" alt="image" src="https://github.com/user-attachments/assets/61e1fc59-601b-4bfa-8042-bc2365965336" />
 
 
 ---
