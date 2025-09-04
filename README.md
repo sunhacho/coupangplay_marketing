@@ -29,7 +29,7 @@
     - Targeting: 인기 스포츠 중계를 중심으로 한 스포츠 팬 중심 타겟팅에 편중
     - Positioning: ‘가성비 OTT’, ‘스포츠 중계의 대표 OTT’
     
-    <img width="460" height="306" alt="image" src="https://github.com/user-attachments/assets/413f7e92-8c56-483b-9317-c17d11d69766" />
+
 
     
 
@@ -148,6 +148,7 @@ MZ세대 스포츠 팬들을 위한 체험형+세계관 팝업스토어로, 쿠�
 ⑤ 🎁 굿즈&포토카드 랜덤존
 
 ![image.png](attachment:faa39744-4397-48f1-aeea-b8b37dab1f8e:image.png)
+    <img width="460" height="306" alt="image" src="https://github.com/user-attachments/assets/413f7e92-8c56-483b-9317-c17d11d69766" />
 
 ---
 
