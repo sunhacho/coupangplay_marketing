@@ -101,7 +101,7 @@
 
 **기대효과**
 
-<img width="664" height="1070" alt="image" src="https://github.com/user-attachments/assets/fcf69adb-a6bd-4c45-a025-03965dfc4b78" />
+<img width="464" height="870" alt="image" src="https://github.com/user-attachments/assets/fcf69adb-a6bd-4c45-a025-03965dfc4b78" />
 
 
 1. 비경기일에도 커뮤니티 활동을 유도
@@ -121,7 +121,7 @@
 
 **기대효과**
 
-<img width="792" height="468" alt="image" src="https://github.com/user-attachments/assets/aeb29b07-be66-4489-a6f4-179891f7367a" />
+<img width="592" height="268" alt="image" src="https://github.com/user-attachments/assets/aeb29b07-be66-4489-a6f4-179891f7367a" />
 
 
 1. 기존 와우 멤버십과 광고 기반 무료 요금제 사이의 간극을 메울 수 있음
@@ -152,7 +152,7 @@ MZ세대 스포츠 팬들을 위한 체험형+세계관 팝업스토어로, 쿠�
 
 ⑤ 🎁 굿즈&포토카드 랜덤존
 
-<img width="474" height="822" alt="image" src="https://github.com/user-attachments/assets/289500a5-cc61-4a44-860d-4b89d514e485" />
+<img width="274" height="622" alt="image" src="https://github.com/user-attachments/assets/289500a5-cc61-4a44-860d-4b89d514e485" />
 <img width="260" height="106" alt="image" src="https://github.com/user-attachments/assets/61e1fc59-601b-4bfa-8042-bc2365965336" />
 
 
